@@ -1,0 +1,9 @@
+{
+  "projectId": "1a208ccd-b3c7-4d37-af64-9adf6d42ffa5",
+  "createdAt": 1770792312849,
+  "startupCommands": [
+    "cd backend && mvn spring-boot:run",
+    "cd frontend && npm start"
+  ],
+  "templateId": "any"
+}
